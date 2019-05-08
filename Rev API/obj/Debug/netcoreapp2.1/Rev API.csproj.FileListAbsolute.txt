@@ -1,0 +1,14 @@
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\bin\Debug\netcoreapp2.1\Rev API.deps.json
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\bin\Debug\netcoreapp2.1\Rev API.runtimeconfig.json
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\bin\Debug\netcoreapp2.1\Rev API.runtimeconfig.dev.json
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\bin\Debug\netcoreapp2.1\Rev API.dll
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\bin\Debug\netcoreapp2.1\Rev API.pdb
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.csprojAssemblyReference.cache
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.csproj.CoreCompileInputs.cache
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.RazorAssemblyInfo.cache
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.RazorAssemblyInfo.cs
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.AssemblyInfoInputs.cache
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.AssemblyInfo.cs
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.RazorTargetAssemblyInfo.cache
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.dll
+C:\Users\Callum Smith\source\repos\Rev API\Rev API\obj\Debug\netcoreapp2.1\Rev API.pdb
